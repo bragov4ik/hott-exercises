@@ -1,3 +1,3 @@
-# rzk-project-template
+# Hott exercises
 
-Template for a formalisation project in rzk proof assistant.
+Solutions for exercises from The HoTT Book
